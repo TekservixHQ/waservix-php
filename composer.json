@@ -7,8 +7,8 @@
     "homepage": "https://tekservix.com/waservix/",
     "support": {
         "docs": "https://tekservix.com/waservix/docs/",
-        "issues": "https://github.com/ellyj164/waservix-php/issues",
-        "source": "https://github.com/ellyj164/waservix-php",
+        "issues": "https://github.com/tekservixhq/waservix-php/issues",
+        "source": "https://github.com/tekservixhq/waservix-php",
         "email": "support@tekservix.com"
     },
     "authors": [{ "name": "Tekservix", "homepage": "https://tekservix.com" }],

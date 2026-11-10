@@ -11,7 +11,7 @@ namespace Tekservix\WAservix;
  */
 class WAservix
 {
-    public const VERSION = '1.0.0';
+    public const VERSION = '1.0.1';
     public const DEFAULT_BASE_URL = 'https://tekservix.com/waservix/api';
 
     private string $apiKey;
