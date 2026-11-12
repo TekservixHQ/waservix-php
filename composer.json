@@ -1,6 +1,6 @@
 {
     "name": "tekservix/waservix",
-    "description": "Official PHP client for the WAservix WhatsApp API Gateway: send WhatsApp messages, images and documents from your own number, with status tracking and webhooks.",
+    "description": "WAservix WhatsApp API Gateway: official PHP client by Tekservix. Send WhatsApp messages, images and documents from your own number, with status tracking and webhooks.",
     "type": "library",
     "license": "MIT",
     "keywords": ["whatsapp", "whatsapp-api", "whatsapp-gateway", "whatsapp-bot", "send-whatsapp", "messaging", "webhook", "laravel", "wasender", "waservix", "tekservix"],
